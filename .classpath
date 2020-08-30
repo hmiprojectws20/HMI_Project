@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry exported="true" kind="lib" path="Data/jnativehook-2.1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="Data/libtensorflow-1.14.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="Data/libtensorflow-src.jar"/>
+	<classpathentry exported="true" kind="lib" path="Data/libtensorflow.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
